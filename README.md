@@ -10,4 +10,4 @@ How to setup:
  - Add the folder you unzipped.
  - ENJOY!
 
-Note: Themes may not work, RAP, may not work and you will have to verify your RoPro account (won't remove fake subscription)
+Note: Themes may not work, RAP may not work and you will have to verify your RoPro account (won't remove fake subscription)
